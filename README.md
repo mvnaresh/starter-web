@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+<<<<<<< HEAD
 Text added by me newly
 
 ## The End
@@ -17,3 +18,6 @@ The End Section
 ## Nothing To Enter
 
 Hi its me
+=======
+## The End
+>>>>>>> 3015dea3fb4810e393004160b3d44d7282932209
