@@ -8,8 +8,12 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Text added by me
+Text added by me newly
 
 ## The End
 
 The End Section
+
+## Nothing To Enter
+
+Hi its me
