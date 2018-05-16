@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos. This data tells baout he REabse for Master
+Sample website with plenty of files for demos. This data tells baout he Rebase for Master. Reabse done Successfully
 
 ## How To Contribute
 
