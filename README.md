@@ -11,6 +11,10 @@ Sample website with plenty of files for demos
 <<<<<<< HEAD
 Text added by me newly
 
+## Hi Its A New Section
+
+For copyright purpose
+
 ## The End
 
 The End Section
