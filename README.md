@@ -11,7 +11,9 @@ Sample website with plenty of files for demos
 <<<<<<< HEAD
 Text added by me newly
 
-## Hi Its A New Section
+## Hi Atomatic Merges
+
+Merging the files of branches
 
 For copyright purpose
 
