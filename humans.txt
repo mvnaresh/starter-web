@@ -4,6 +4,7 @@
 # TEAM
 
     <name> Add some data to it <role> -- <twitter>
+	Rebase Commands for the master
 
 # THANKS
 
