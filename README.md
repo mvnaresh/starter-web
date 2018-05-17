@@ -8,7 +8,7 @@ Sample website with plenty of files for demos. This data tells baout he Rebase f
 
 ## How To Contribute
 
-This is example for Stashing
+This is example for Stashing and Poping
 
 ## Hi Atomatic Merges
 
