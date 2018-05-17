@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-Modifying of the sake of Stashing
+Modifying of the sake of Stashing and branching
     <name> Add some data to it <role> -- <twitter>
 	Rebase Commands for the master
 
