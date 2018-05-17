@@ -8,8 +8,7 @@ Sample website with plenty of files for demos. This data tells baout he Rebase f
 
 ## How To Contribute
 
-<<<<<<< HEAD
-Text added by me newly
+This is example for Stashing
 
 ## Hi Atomatic Merges
 
